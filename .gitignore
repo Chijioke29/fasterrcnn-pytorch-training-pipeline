@@ -14,3 +14,4 @@ wandb/*
 
 # IPython checkpoints
 .ipynb_checkpoints
+fasterrcnn_results/
